@@ -1,0 +1,19 @@
+# Dataset 
+data/ChurnZero_dataset_v1.csv
+data/ChurnZero_test_v1.csv
+
+# Saved model binaries 
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
